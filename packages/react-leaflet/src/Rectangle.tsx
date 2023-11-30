@@ -8,7 +8,7 @@ import {
   type LatLngBoundsExpression,
   Rectangle as LeafletRectangle,
   type PathOptions,
-} from 'leaflet'
+} from 'leaflet-headless'
 import type { ReactNode } from 'react'
 
 export interface RectangleProps extends PathOptions, PathProps {

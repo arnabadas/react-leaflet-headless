@@ -5,7 +5,7 @@ import {
   extendContext,
   updateMediaOverlay,
 } from '@react-leaflet/core'
-import { LatLngBounds, ImageOverlay as LeafletImageOverlay } from 'leaflet'
+import { LatLngBounds, ImageOverlay as LeafletImageOverlay } from 'leaflet-headless'
 import type { ReactNode } from 'react'
 
 export interface ImageOverlayProps extends MediaOverlayProps {

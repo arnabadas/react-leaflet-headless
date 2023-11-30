@@ -7,7 +7,7 @@ import {
   extendContext,
   useLeafletContext,
 } from '@react-leaflet/core'
-import { Control, type Layer } from 'leaflet'
+import { Control, type Layer } from 'leaflet-headless'
 import React, {
   type ForwardRefExoticComponent,
   type FunctionComponent,

@@ -1,4 +1,4 @@
-import type { Evented, LeafletEventHandlerFnMap } from 'leaflet'
+import type { Evented, LeafletEventHandlerFnMap } from 'leaflet-headless'
 import { useEffect, useRef } from 'react'
 
 import type { LeafletElement } from './element.js'

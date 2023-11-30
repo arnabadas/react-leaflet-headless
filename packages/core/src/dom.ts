@@ -1,4 +1,4 @@
-import { DomUtil } from 'leaflet'
+import { DomUtil } from 'leaflet-headless'
 
 function splitClassName(className: string): string[] {
   return className.split(' ').filter(Boolean)

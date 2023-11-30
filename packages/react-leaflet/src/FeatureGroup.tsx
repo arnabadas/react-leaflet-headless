@@ -4,7 +4,7 @@ import {
   createPathComponent,
   extendContext,
 } from '@react-leaflet/core'
-import { FeatureGroup as LeafletFeatureGroup } from 'leaflet'
+import { FeatureGroup as LeafletFeatureGroup } from 'leaflet-headless'
 
 import type { LayerGroupProps } from './LayerGroup.js'
 

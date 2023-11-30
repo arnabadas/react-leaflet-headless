@@ -4,7 +4,7 @@ import type {
   CircleMarkerOptions,
   CircleOptions,
   LatLngExpression,
-} from 'leaflet'
+} from 'leaflet-headless'
 import type { ReactNode } from 'react'
 
 import type { PathProps } from './path.js'

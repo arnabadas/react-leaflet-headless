@@ -11,7 +11,7 @@ import {
   Tooltip as LeafletTooltip,
   type TooltipEvent,
   type TooltipOptions,
-} from 'leaflet'
+} from 'leaflet-headless'
 import { type ReactNode, useEffect } from 'react'
 
 export interface TooltipProps extends TooltipOptions, EventedProps {

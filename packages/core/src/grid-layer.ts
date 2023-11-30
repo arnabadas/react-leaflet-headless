@@ -1,4 +1,4 @@
-import type { GridLayer, GridLayerOptions } from 'leaflet'
+import type { GridLayer, GridLayerOptions } from 'leaflet-headless'
 
 export function updateGridLayer<
   E extends GridLayer,

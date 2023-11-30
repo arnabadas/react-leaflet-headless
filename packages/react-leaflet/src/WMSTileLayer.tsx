@@ -5,7 +5,7 @@ import {
   updateGridLayer,
   withPane,
 } from '@react-leaflet/core'
-import { TileLayer, type WMSOptions, type WMSParams } from 'leaflet'
+import { TileLayer, type WMSOptions, type WMSParams } from 'leaflet-headless'
 
 export interface WMSTileLayerProps extends WMSOptions, LayerProps {
   params?: WMSParams

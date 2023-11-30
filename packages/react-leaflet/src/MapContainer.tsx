@@ -8,7 +8,7 @@ import {
   type LatLngBoundsExpression,
   Map as LeafletMap,
   type MapOptions,
-} from 'leaflet'
+} from 'leaflet-headless'
 import React, {
   type CSSProperties,
   type ReactNode,

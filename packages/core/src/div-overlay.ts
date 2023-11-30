@@ -1,4 +1,4 @@
-import type { Popup, Tooltip } from 'leaflet'
+import type { Popup, Tooltip } from 'leaflet-headless'
 
 import { useAttribution } from './attribution.js'
 import { useLeafletContext, type LeafletContextInterface } from './context.js'

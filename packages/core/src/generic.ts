@@ -4,7 +4,7 @@ import type {
   FeatureGroup,
   Layer,
   Path,
-} from 'leaflet'
+} from 'leaflet-headless'
 
 import {
   type PropsWithChildren,

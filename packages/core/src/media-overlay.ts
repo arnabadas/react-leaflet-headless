@@ -5,7 +5,7 @@ import {
   type ImageOverlayOptions,
   type SVGOverlay as LeafletSVGOverlay,
   type VideoOverlay as LeafletVideoOverlay,
-} from 'leaflet'
+} from 'leaflet-headless'
 
 import type { InteractiveLayerProps } from './layer.js'
 

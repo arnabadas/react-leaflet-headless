@@ -9,7 +9,7 @@
   "keywords": [
     "react-component",
     "react",
-    "leaflet",
+    "leaflet-headless",
     "map"
   ],
   "author": "Paul Le Cam <paul@ulem.net>",
@@ -41,7 +41,7 @@
     "prepublishOnly": "package-check"
   },
   "peerDependencies": {
-    "leaflet": "^1.9.0",
+    "@joustrich/leaflet-headless": "github:joustrich/leaflet-headless",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },

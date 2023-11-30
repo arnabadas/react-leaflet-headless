@@ -5,7 +5,7 @@ import {
   extendContext,
   updateCircle,
 } from '@react-leaflet/core'
-import { Circle as LeafletCircle } from 'leaflet'
+import { Circle as LeafletCircle } from 'leaflet-headless'
 
 export type { CircleProps } from '@react-leaflet/core'
 

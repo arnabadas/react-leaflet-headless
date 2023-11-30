@@ -1,5 +1,5 @@
 import { renderHook } from '@testing-library/react-hooks'
-import type { Map } from 'leaflet'
+import type { Map } from 'leaflet-headless'
 import React, { StrictMode, type ReactNode } from 'react'
 
 import {

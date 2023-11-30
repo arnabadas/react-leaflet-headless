@@ -1,4 +1,4 @@
-import type { LayerOptions } from 'leaflet'
+import type { LayerOptions } from 'leaflet-headless'
 
 import type { LeafletContextInterface } from './context.js'
 

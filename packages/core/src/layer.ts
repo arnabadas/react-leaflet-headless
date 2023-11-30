@@ -1,4 +1,4 @@
-import type { InteractiveLayerOptions, Layer, LayerOptions } from 'leaflet'
+import type { InteractiveLayerOptions, Layer, LayerOptions } from 'leaflet-headless'
 import { useEffect } from 'react'
 
 import { useAttribution } from './attribution.js'

@@ -5,7 +5,7 @@ import {
   extendContext,
 } from '@react-leaflet/core'
 import type { GeoJsonObject } from 'geojson'
-import { GeoJSON as LeafletGeoJSON, type GeoJSONOptions } from 'leaflet'
+import { GeoJSON as LeafletGeoJSON, type GeoJSONOptions } from 'leaflet-headless'
 
 import type { LayerGroupProps } from './LayerGroup.js'
 

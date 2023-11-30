@@ -1,4 +1,4 @@
-import type { FeatureGroup, Path, PathOptions } from 'leaflet'
+import type { FeatureGroup, Path, PathOptions } from 'leaflet-headless'
 import { useEffect, useRef } from 'react'
 
 import { useLeafletContext } from './context.js'

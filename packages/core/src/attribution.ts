@@ -1,4 +1,4 @@
-import type { Map } from 'leaflet'
+import type { Map } from 'leaflet-headless'
 import { useEffect, useRef } from 'react'
 
 export function useAttribution(

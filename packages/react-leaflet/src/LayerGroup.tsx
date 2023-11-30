@@ -4,7 +4,7 @@ import {
   createLayerComponent,
   extendContext,
 } from '@react-leaflet/core'
-import { LayerGroup as LeafletLayerGroup, type LayerOptions } from 'leaflet'
+import { LayerGroup as LeafletLayerGroup, type LayerOptions } from 'leaflet-headless'
 import type { ReactNode } from 'react'
 
 export interface LayerGroupProps extends LayerOptions, EventedProps {

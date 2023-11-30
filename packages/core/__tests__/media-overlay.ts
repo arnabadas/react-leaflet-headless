@@ -1,4 +1,4 @@
-import { latLngBounds } from 'leaflet'
+import { latLngBounds } from 'leaflet-headless'
 
 import { updateMediaOverlay } from '../src'
 

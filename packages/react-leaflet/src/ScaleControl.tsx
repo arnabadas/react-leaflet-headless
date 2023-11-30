@@ -1,5 +1,5 @@
 import { createControlComponent } from '@react-leaflet/core'
-import { Control } from 'leaflet'
+import { Control } from 'leaflet-headless'
 
 export type ScaleControlProps = Control.ScaleOptions
 

@@ -1,5 +1,5 @@
 import { renderHook } from '@testing-library/react-hooks'
-import { Layer } from 'leaflet'
+import { Layer } from 'leaflet-headless'
 
 import { useEventHandlers } from '../src'
 

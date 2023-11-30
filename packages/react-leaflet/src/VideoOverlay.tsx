@@ -8,7 +8,7 @@ import {
 import {
   VideoOverlay as LeafletVideoOverlay,
   type VideoOverlayOptions,
-} from 'leaflet'
+} from 'leaflet-headless'
 import type { ReactNode } from 'react'
 
 export interface VideoOverlayProps
